@@ -1,0 +1,20 @@
+
+p {
+	font-size: 20px;
+	text-align: center;
+	color: blue;
+}
+
+body {
+	background-color: #efeee7;
+	 margin: 0;
+  padding: 0;
+}
+
+.Yogi {color: red;}
+
+#main-bio {color: green;}
+
+.container {width: 1024;
+	margin: 0 auto;
+}
